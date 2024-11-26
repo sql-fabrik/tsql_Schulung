@@ -32,6 +32,7 @@ https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_05_DatenInt_const
 https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_07_Sichten.ppt
 https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_08_StoredProcs.ppt
 https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_09_Functions.ppt
+  -- https://github.com/sql-fabrik/checksums/
 https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_10_CLR.ppt
 https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_11_Transactions.ppt
 https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_12_ServiceBroker.ppt
