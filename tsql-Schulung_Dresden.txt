@@ -1,0 +1,60 @@
+T-SQL Schulung -- links
+
+installation
+https://www.microsoft.com/de-de/sql-server/sql-server-downloads
+
+https://learn.microsoft.com/de-de/sql/ssms/release-notes-ssms?view=sql-server-ver16#previous-ssms-releases
+
+https://visualstudio.microsoft.com/de/downloads/
+
+https://itschulungen.blob.core.windows.net/isodownloads/de_office_professional_plus_2021_x86_x64_dvd_key.pdf
+
+----
+schulung
+https://testfabrikstorage01m.blob.core.windows.net/additional-files-telekom/Schulungs-Files.html
+-- AdventureWorks-DBs
+-- Contoso DB
+-- PerformanceDB
+
+
+https://testfabrikstorage002.blob.core.windows.net/schulungsebooks/SQL2005_nasdaq.jpg
+
+---------------
+https://testfabrikstorage002.blob.core.windows.net/schulungsfiles/all_ppt.zip  -->  Normalisierung
+https://itschulungen.blob.core.windows.net/tsql/SQL10985_intro_2_SQL-databases__ppt.zip
+
+
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_01_Datenbanken.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_02_DatentypenTabellen.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_03_xml.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_04_Indexes.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_05_DatenInt_constraints.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_07_Sichten.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_08_StoredProcs.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_09_Functions.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_10_CLR.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_11_Transactions.ppt
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/4739_12_ServiceBroker.ppt
+
+https://itschulungen.blob.core.windows.net/hamburg/tsql_Window_Functions.pdf
+
+https://testfabrikstorage002.blob.core.windows.net/e-ppts/tsql_JoinTypePoster-22.pdf
+
+----
+
+
+https://testfabrikstorage01m.blob.core.windows.net/a10985/_content.html  -- SQL 2017er Version
+
+https://testfabrikstorage01m.blob.core.windows.net/additional-files-telekom/Schulungs-Files.html
+
+----
+https://testfabrikstorage01m.blob.core.windows.net/v2b/index.html  --> Historisierung
+
+CLR  https://testfabrikstorage01m.blob.core.windows.net/deka-deployment/CLR in SQL 2017 - 8 Steps.pdf
+
+https://itschulungen.blob.core.windows.net/databricks-ml/diamonds.csv
+
+#################
+
+https://itschulungen.blob.core.windows.net/sonstiges/Ameise.pdf
+
