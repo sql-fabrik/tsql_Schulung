@@ -52,6 +52,7 @@ https://testfabrikstorage01m.blob.core.windows.net/additional-files-telekom/Schu
 https://testfabrikstorage01m.blob.core.windows.net/v2b/index.html  --> Historisierung
 
 CLR  https://testfabrikstorage01m.blob.core.windows.net/deka-deployment/CLR in SQL 2017 - 8 Steps.pdf
+https://devblogs.microsoft.com/azure-sql/introducing-regular-expression-regex-support-in-azure-sql-db/  --> RegEx
 
 https://itschulungen.blob.core.windows.net/databricks-ml/diamonds.csv
 
